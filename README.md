@@ -1,4 +1,3 @@
 # obsidian-sync
 
 
-изменение
